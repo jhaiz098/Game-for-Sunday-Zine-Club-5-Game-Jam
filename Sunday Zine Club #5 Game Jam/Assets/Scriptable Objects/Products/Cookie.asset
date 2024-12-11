@@ -10,5 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 59f07f23f141ff8418b1a1e23c09c8f7, type: 3}
-  m_Name: Product
+  m_Name: Cookie
   m_EditorClassIdentifier: 
+  productName: Cookie
+  cost: 0
+  icon: {fileID: 0}

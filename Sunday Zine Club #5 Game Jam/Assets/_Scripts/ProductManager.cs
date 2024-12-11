@@ -15,4 +15,9 @@ public class ProductManager : MonoBehaviour
     {
         return products;
     }
+
+    public ProductsSO RandomlySelectProduct()
+    {
+        return products[Random.Range(0, products.Count)];
+    }
 }
